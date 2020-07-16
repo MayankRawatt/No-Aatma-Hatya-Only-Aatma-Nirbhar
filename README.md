@@ -1,5 +1,5 @@
-# Parvaah - Suicide Prevention Portal
-This project was made in a 12 hour hackathon at NMIMS, Mumbai.
+# No Aatma Hatya Only Aatma Nirbhar - Suicide Prevention
+This project was made in a 24 hour hackathon at NMIMS, Mumbai.
 The goal of this project is to diminish this crisis in our country by providing different modules
 to help the impacted personnel. Modules like games, chat forums, one-to-one chat and
 depression evaluating tests can help both the individual by instilling him/her with positive
@@ -21,12 +21,12 @@ This quiz will be given by the user after registration and his level will be eva
 His response will also be recorded so that the admin may offer additional help later on.
 
  - Games: 
-Here, we have included some arcade games to balance the user’s mind by providing a soothing
+Here, we have included some arcade games to balance the userâ€™s mind by providing a soothing
 experience.
  
  - Calming ubiquity: 
 We have included soothing images, and motivational quotes so that the user gets a calm vibe.
-One more thing we have focused on is, we have included a calming nature’s sound which will be played in the
+One more thing we have focused on is, we have included a calming natureâ€™s sound which will be played in the
 background everytime the site is loaded. 
 
  - Working on adding a anonymous forums module and a data analysis tool to aggregate data by region and age. 
